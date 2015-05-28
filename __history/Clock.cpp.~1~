@@ -1,0 +1,32 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+
+#pragma hdrstop
+
+#include "Clock.h"
+#pragma package(smart_init)
+//---------------------------------------------------------------------------
+// ValidCtrCheck is used to assure that the components created do not have
+// any pure virtual functions.
+//
+
+static inline void ValidCtrCheck(TClock *)
+{
+	new TClock(NULL);
+}
+//---------------------------------------------------------------------------
+__fastcall TClock::TClock(TComponent* Owner)
+	: TShape(Owner)
+{
+}
+//---------------------------------------------------------------------------
+namespace Clock
+{
+	void __fastcall PACKAGE Register()
+	{
+		TComponentClass classes[1] = {__classid(TClock)};
+		RegisterComponents(L"Samples", classes, 0);
+	}
+}
+//---------------------------------------------------------------------------
