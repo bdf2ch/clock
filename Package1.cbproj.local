@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2015.05.28 10:54:10.654,=rtl.bpi</Transaction>
-    <Transaction>2015.05.28 10:54:10.693,=C:\Users\kolu0897\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
-    <Transaction>2015.05.28 10:57:05.891,=C:\development\clock\Clock.cpp</Transaction>
-    <Transaction>2015.05.28 10:57:05.972,=vcl.bpi</Transaction>
-    <Transaction>2015.05.28 10:58:14.091,C:\development\clock\Package1PCH1.h=C:\Users\kolu0897\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
-    <Transaction>2015.05.28 10:58:19.831,C:\development\clock\Package1.cbproj=C:\Users\kolu0897\Documents\Embarcadero\Studio\Projects\Package1.cbproj</Transaction>
-    <Transaction>2015.05.28 11:00:25.205,=C:\development\clock\Unit1.cpp</Transaction>
-    <Transaction>2015.05.28 11:41:45.619,=C:\development\clock\icon.png</Transaction>
-    <Transaction>2015.05.28 12:00:11.112,C:\development\clock\icon.png=</Transaction>
-    <Transaction>2015.05.28 12:00:11.546,=C:\development\clock\clock.png</Transaction>
-    <Transaction>2015.05.28 12:04:57.984,C:\development\clock\clock.png=</Transaction>
-    <Transaction>2015.05.28 12:04:58.002,=C:\development\clock\CLOCK.BMP</Transaction>
-    <Transaction>2015.05.28 15:19:22.427,C:\development\ClockTestdrive\Unit1.cpp=C:\development\clock\Unit1.cpp</Transaction>
-    <Transaction>2015.05.28 15:19:22.427,C:\development\ClockTestdrive\Unit1.h=C:\development\clock\Unit1.h</Transaction>
-    <Transaction>2015.05.28 15:19:22.427,C:\development\ClockTestdrive\Unit1.dfm=C:\development\clock\Unit1.dfm</Transaction>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.831,C:\development\clock\Package1.cbproj=C:\Users\kolu0897\Documents\Embarcadero\Studio\Projects\Package1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,C:\development\ClockTestdrive\Unit1.h=C:\development\clock\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,=C:\development\clock\CLOCK.BMP</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,=vcl.bpi</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,=C:\development\clock\clock.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,C:\development\clock\clock.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,C:\development\clock\Package1PCH1.h=C:\Users\kolu0897\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,=C:\development\clock\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,=C:\development\clock\icon.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,C:\development\clock\icon.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.654,=rtl.bpi</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,C:\development\ClockTestdrive\Unit1.dfm=C:\development\clock\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,=C:\development\clock\Clock.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,=C:\Users\kolu0897\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,C:\development\ClockTestdrive\Unit1.cpp=C:\development\clock\Unit1.cpp</Transaction>
   </Transactions>
 </BorlandProject>

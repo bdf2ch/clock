@@ -17,23 +17,18 @@ static inline void ValidCtrCheck(TClock *)
 	new TClock(NULL);
 }
 //---------------------------------------------------------------------------
-__fastcall  TClock::TClock(HWND ParentWindow)
+__fastcall  TClock::TClock(TComponent* Owner)
 	: TShape(Owner)
 {
-
-
-	//ShowMessage("TEST");
-	Parent = ParentWindow;
-	//his -> Parent = this->;
-	Brush->Color = clRed;
-	this->Pen->Color = clWhite;
-	this->Canvas->LineTo(10, 10);
+	Brush -> Color = clRed;
+	Pen -> Color = clWhite;
+	Canvas -> MoveTo(0, 0);
+	Canvas -> LineTo(10, 10);
 	Width = 200;
 	Height = 60;
 	timer = new TTimer(this);
 	timer -> Interval = 1000;
 	timer -> OnTimer = TicTac;
-	Canvas->LineTo(50,50);
 	timer -> Enabled = true;
 }
 //---------------------------------------------------------------------------
